@@ -37,4 +37,7 @@ L’analyse a été réalisée avec Microsoft Power BI.
 3. **Transformation des données** : Les données ont été transformées pour être prêtes à l'analyse, avec des calculs, des agrégations et des filtres appliqués. De nouvelles colonnes ont également été créées en fonction des besoins de l'analyse via Microsoft Excel.
 4. **Visualisation des données** : Les résultats de l'analyse ont été visualisés avec des graphiques et des tableaux disponibles sur Microsoft Power BI. Un tableau de bord explicatif a été créé pour présenter les principales conclusions.
 
+![Capture_sales](https://github.com/user-attachments/assets/ea21f848-e38c-4ac9-91ca-c7699d63fd9a)
+
+
 Ce projet fournit des analyses détaillées des tendances de vente et des performances des produits, avec des visualisations claires pour soutenir une prise de décision éclairée.
