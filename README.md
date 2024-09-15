@@ -41,3 +41,7 @@ L’analyse a été réalisée avec Microsoft Power BI.
 
 
 Ce projet fournit des analyses détaillées des tendances de vente et des performances des produits, avec des visualisations claires pour soutenir une prise de décision éclairée.
+
+## Authors
+
+- [Lamia Oualili](https://github.com/lamiaoua)
